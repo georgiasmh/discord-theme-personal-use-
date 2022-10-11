@@ -1,49 +1,49 @@
 
 {
-  "name": "Pink_iphone",
-  "version": "1.0",
-  "description": "Pink Anime Theme",
+  "name": "beep beep",
+  "version": "",
+  "description": "beep boop",
   "authors": [
     {
-      "name": "melonwer",
-      "id": "848518188195250176"
+      "name": "georgia",
+      "id": "375397994092298240"
     }
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#0a0408",
+      "#663B42",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#FBFBFB",
+      "#FFC0CB",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#B6B6B6",
+      "#C48893",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
+      "#FFC0CB",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#B6B6B6",
+      "#C48893",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#d160cf",
+      "#FF9FB1",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#DCDDDE",
+      "#FF9FB1",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#d160cf",
+      "#FF9FB1",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#747474",
+      "#663B42",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
