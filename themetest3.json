@@ -1,0 +1,173 @@
+{
+  "name": "Cityscape",
+  "description": "Pink pixellated cityscape",
+  "authors": [
+
+      {
+          "name": "georgiasmh",
+          "id": "375397994092298240"
+        
+      }
+  ],
+  "spec": 2,
+  "semanticColors": {
+      "HEADER_PRIMARY": [
+          "#ffffff"
+      ],
+      "HEADER_SECONDARY": [
+          "#ffffff"
+      ],
+      "TEXT_NORMAL": [
+          "#ffffff"
+      ],
+      "TEXT_MUTED": [
+          "#87747a"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#87747a"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#b3a1a6"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#e58aa9"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#654d54"
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#6f4b4f"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#6f4b4f"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#010206"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#6f4b4f"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#e58aa9"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#17121A"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#6f4b4f"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#6f4b4f"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+          "#17121A"
+      ],
+     
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#9D8888"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#3B2B43"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#2c2032"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#3E2E47"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#010206"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+          "#26273b"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+          "transparent"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+          "#DAC0B3"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+          "#DAC0B3"
+      ],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+          "#A89090"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#7C6766"
+      ],
+      "TEXT_LINK": [
+          "#C2A8A7"
+      ],
+      "TEXT_DANGER": [
+          "#5A4565"
+      ],
+      "KEYBOARD": [
+          "#0d090e"
+      ],
+      "CHANNEL_ICON": [
+          "#EFDFD7"
+      ],
+      "CHAT_BACKGROUND": [
+          "#312438"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+          "#31223b"
+      ],
+      "CARD_PRIMARY_BG": [
+          "rgba(0, 0, 0, 0.8)"
+      ],
+      "CARD_SECONDARY_BG": [
+          "#31223b"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+          "#74646d"
+      ],
+      "BG_BACKDROP": [
+          "#04010173"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_500": "#E3C5C5",
+      "PRIMARY_100": "#E4D4CC",
+      "PRIMARY_200": "#F4EAE5",
+      "PRIMARY_230": "#F4EAE5",
+      "PRIMARY_300": "#735682",
+      "PRIMARY_360": "#7C6766",
+      "PRIMARY_400": "#735682",
+      "PRIMARY_600": "rgba(0, 0, 0, 0.8)",
+      "PRIMARY_630": "#231b27",
+      "PRIMARY_645": "#74646d",
+      "PRIMARY_660": "#231b27",
+      "PRIMARY_700": "#312438",
+      "PRIMARY_800": "#231b27",
+      "BRAND_260": "#D2B7AA",
+      "BRAND_360": "#F4EAE5",
+      "BRAND_500": "#74646d",
+      "BRAND_560": "#735682",
+      "YELLOW_300": "#D2B7AA",
+      "GREEN_600": "#EFDFD7",
+      "RED_400": "#BB30AD",
+      "WHITE_500": "#EFDFD7",
+      "GREEN_360": "#74646d"
+  },
+  
+  "background": {
+      "blur": 0.0,
+      "url": "https://cdn.discordapp.com/attachments/665174323392413696/1182055458282942464/pink-pixel-art-city-background-ruxqsyy2pwkpngk5.jpg",
+      "alpha": 1.0
+      },
+      "plus":{
+     "version":"0",
+      "iconpack":"rosiecord-plumpy",
+     "icons":{
+              "ic_new_pins":["#e64553"],
+              "StatusStreaming": ["#7e64fb"],
+            "StatusMobileOnline": ["#09bd63"],
+            "StatusIdle": ["#ffd401"],
+            "StatusDND": ["#ff611a"],
+            "StatusOffline": ["#015bd5"],
+            "StatusOnline": ["#09bd63"]}
+  },
+      "color": "#6b8e4e"
+}
